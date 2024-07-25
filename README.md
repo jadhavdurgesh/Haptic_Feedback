@@ -102,7 +102,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Author:** Durgesh Jadhav
 - **GitHub:** [Durgesh Jadhav](https://github.com/jadhavdurgesh)
 - **LinkedIn:** [Durgesh Jadhav](https://www.linkedin.com/in/durgesh-jadhav/)
-- **YouTube:** [FunWithD]([https://www.youtube.com/channel/your-channel-link](https://www.youtube.com/channel/UC5K_qxPwlsoPnjCejfGY4Ug))
+- **YouTube:** [FunWithD](https://www.youtube.com/channel/UC5K_qxPwlsoPnjCejfGY4Ug)
 
 ---
 
